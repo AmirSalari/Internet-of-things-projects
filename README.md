@@ -23,7 +23,9 @@ The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-t
 # Architecture
 
 
-1. End Device, Node, Mote - an object with an embedded low-power communication device. 
-1. Gateway - antennas that receive broadcasts from End Devices and send data back to End Devices. 
-1. Network Server - servers that route messages from End Devices to the right Application, and back. 
-1. Application - a piece of software, running on a server.
+* End Device, Node, Mote - an object with an embedded low-power communication device. 
+* Gateway - antennas that receive broadcasts from End Devices and send data back to End Devices. 
+* Network Server - servers that route messages from End Devices to the right Application, and back. 
+* Application - a piece of software, running on a server.
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/LoRaWAN-Overview.png)
+
