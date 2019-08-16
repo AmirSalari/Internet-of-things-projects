@@ -33,6 +33,6 @@ A LoRa network consists of several elements:
 Hardware used
 - Raspberry Pi 3 model B with pin diagram
 
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry pi 3.png)
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry.png)
 
 
