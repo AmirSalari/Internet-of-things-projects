@@ -17,9 +17,6 @@ The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-t
 
 6- After comparing the parking spot status data with the stored value, the parking application makes the decision of whether or not to send a notice message to the mobile app to update the status of a parking spot
 
-
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-2.jpg)
-
 # Architecture
 The LoRa network utilises a telecommunications network called LoRaWAN that provides the routing of the data from the end node via a LoRaWAN gateway to the required entities. LoRaWAN also defiens the way in which data is sent around the network, detailing the responses of the LoRaWAN gateways, and the LoRa network server.
 
@@ -31,4 +28,11 @@ A LoRa network consists of several elements:
 * Network Server - servers that route messages from End Devices to the right Application, and back. 
 * Application - a piece of software, running on a server.
 ![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/LoRaWAN-Overview.png)
+
+# Gateway:
+Hardware used
+- Raspberry Pi 3 model B with pin diagram
+
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry pi 3.png)
+
 
