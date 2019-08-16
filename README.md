@@ -16,3 +16,14 @@ The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-t
 5- The Application Server also hosted on TTN listens to the PubNub channel and detects the status data of each parking spot.
 
 6- After comparing the parking spot status data with the stored value, the parking application makes the decision of whether or not to send a notice message to the mobile app to update the status of a parking spot
+
+
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-2.jpg)
+
+# Architecture
+
+
+1. End Device, Node, Mote - an object with an embedded low-power communication device. 
+1. Gateway - antennas that receive broadcasts from End Devices and send data back to End Devices. 
+1. Network Server - servers that route messages from End Devices to the right Application, and back. 
+1. Application - a piece of software, running on a server.
