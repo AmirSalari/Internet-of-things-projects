@@ -18,6 +18,6 @@ The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-t
 6- After comparing the parking spot status data with the stored value, the parking application makes the decision of whether or not to send a notice message to the mobile app to update the status of a parking spot
 
 
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-915.jpg) ![Image of LoRa2](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-2.jpg)
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-2.jpg)
 
 
