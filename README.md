@@ -21,6 +21,9 @@ The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-t
 ![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/RFM95-2.jpg)
 
 # Architecture
+The LoRa network utilises a telecommunications network called LoRaWAN that provides the routing of the data from the end node via a LoRaWAN gateway to the required entities. LoRaWAN also defiens the way in which data is sent around the network, detailing the responses of the LoRaWAN gateways, and the LoRa network server.
+
+A LoRa network consists of several elements:
 
 
 * End Device, Node, Mote - an object with an embedded low-power communication device. 
