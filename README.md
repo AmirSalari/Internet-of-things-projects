@@ -33,7 +33,7 @@ A LoRa network consists of several elements:
 Hardware used
 - Raspberry Pi 3 model B with pin diagram
 
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry.jpg)
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry.png)
 
 # LoRa 
 The  RFM95W transceivers  feature  the  LoRaTM  long range modem that provides ultra-long range spread spectrum communication and high interference immunity whilst minimising current consumption.
@@ -42,6 +42,6 @@ Using Hope RF’s patented LoRaTM modulation technique RFM95W can achieve a sens
 
 These devices also support high performance (G)FSK modes for systems including WMBus, IEEE802.15.4g. The RFM95W deliver exceptional phase noise, selectivity, receiver linearity  and  IIP3  for  significantly lower  current consumption than competing devices.
 
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/1.png)
+![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/2.png)
 
 
