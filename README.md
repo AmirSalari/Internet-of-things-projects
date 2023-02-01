@@ -1,10 +1,8 @@
 # Smart-Parking
-Internet of Things (IoT) has the potential to revolutionize health monitoring by connecting various devices to collect and transmit data in real-time. IoT can be used in a variety of health monitoring applications, such as:
+Internet of Things (IoT) has the potential to revolutionize health monitoring by connecting various devices to collect and transmit data in real-time. IoT can be used in a variety of health monitoring applications. The Internet of Things (IoT) has revolutionized health monitoring by enabling real-time monitoring of patients' health status, vital signs and medical conditions. This has improved the accuracy and efficiency of healthcare delivery and allowed for remote patient monitoring. IoT devices such as wearable devices, smart pills, and smart medical devices can collect, store, and transmit data to healthcare providers, helping them to make informed decisions. This has led to better patient outcomes and reduced healthcare costs. For example, wearable devices can monitor heart rate, sleep patterns, and physical activity levels, while smart pills can track medication adherence and even monitor the digestive system. IoT is also being used in hospitals to improve the efficiency of medical equipment and to reduce the risk of medical errors.
 
 
 ![Image of LoRa](https://github.com/AmirSalari/Internet-of-things-projects/blob/7f79768922e3f24ddad52041e38a2c1dfbd4e9cc/image/iothealth.png)
-
-![Image of LoRa](https://github.com/MAmirS/Smart-Parking/blob/master/image/raspberry.png)
 
 # Smart-Parking
 An IoT Based Smart Health Monitoring and Parking System Using LoRa
