@@ -1,4 +1,11 @@
 # Smart-Parking
+Internet of Things (IoT) has the potential to revolutionize health monitoring by connecting various devices to collect and transmit data in real-time. IoT can be used in a variety of health monitoring applications, such as:
+
+
+![Image of LoRa]([https://github.com/MAmirS/Smart-Parking/blob/master/image/2.jpg](https://github.com/AmirSalari/Internet-of-things-projects/blob/master/image/iothealth.png))
+
+
+# Smart-Parking
 An IoT Based Smart Health Monitoring and Parking System Using LoRa
 
 # Overview
