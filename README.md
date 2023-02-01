@@ -9,6 +9,9 @@ The Internet of Things (IoT) plays a significant role in smart parking systems. 
 
 Smart parking systems using IoT can also enable real-time payment and enforcement through connected devices, reducing the need for physical payment and enforcement systems. Additionally, IoT-enabled data analytics can provide valuable insights into parking usage patterns and trends, helping cities to optimize their parking infrastructure and improve overall transportation efficiency. Overall, the use of IoT in smart parking systems has the potential to significantly improve the parking experience for drivers and cities alike.
 
+![Image of LoRa](https://github.com/AmirSalari/Internet-of-things-projects/blob/c7d0545d99a474a9e0f0c454d36ef97783ce67b9/image/iot-parking.jpg)
+
+
 # Overview
 
 The LoRaWAN smart-parking solution used an Arduino based sensor node, a single-tech LoRa Gateway, TTN to host the Parking application server. The following are the detailed steps of how the application works:
