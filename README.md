@@ -1,5 +1,5 @@
 # Smart-Parking
-An IoT Based Smart Parking System Using LoRa
+An IoT Based Smart Health Monitoring and Parking System Using LoRa
 
 # Overview
 
